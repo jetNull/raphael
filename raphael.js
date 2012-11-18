@@ -5812,4 +5812,7 @@ window.Raphael.vml && function (R) {
             };
         })(method);
     }
+
+  window.Raphael = R;
+
 }(window.Raphael);
